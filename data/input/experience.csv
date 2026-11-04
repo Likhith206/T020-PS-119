@@ -1,0 +1,11 @@
+exp_id,bidder_id,client_name,project_title,completion_date,contract_value,scope_summary,certificate_reference
+EXP_001,BDR001,State Data Center Authority,State Cloud Infrastructure Setup,2024-03-15,42000000.00,Design and implementation of cloud virtualization stack,SDCA/EXP/2024/01
+EXP_002,BDR003,Municipal Corporation Tech Wing,Smart City Metropolitan Area Network,2023-11-20,26000000.00,Metro dark fiber and IoT gateway deployment,MCTW/EXP/2023/12
+EXP_003,BDR003,Power Transmission Corp,Substation SCADA & Network Overhaul,2024-08-10,27000000.00,Mission-critical communications and switches,PTC/EXP/2024/88
+EXP_004,BDR004,District Zilla Panchayat,Local Office LAN Cabling,2025-01-15,8000000.00,LAN cabling and desktop supplies,ZP/2025/L1
+EXP_005,BDR004,City Cooperative Bank,Branch Router Maintenance,2024-05-12,5000000.00,Annual maintenance of branch modems,CCB/2024/09
+EXP_006,BDR006,National Highway Agency,Highway Toll Plaza Servers,2023-09-01,41000000.00,Edge server clusters for electronic tolling,NHA/EXP/33
+EXP_007,BDR007,State Police Telecom,Command Control Cloud Nodes,2024-04-18,21000000.00,Compute nodes and SAN storage,SPT/2024/CC
+EXP_008,BDR007,Metro Rail Corp,Station Signalling Data Cluster,2023-12-10,21500000.00,Industrial computing cluster,MRC/2023/SIG
+EXP_009,BDR007,Airport Authority,Passenger Wi-Fi Edge Cluster,2025-02-28,22000000.00,Edge servers and controller,AAI/2025/WIFI
+EXP_010,BDR008,Public Health Directorate,Hospital Management Cloud Cluster,2024-10-15,45000000.00,Healthcare ERP cloud infrastructure,PHD/2024/HMC

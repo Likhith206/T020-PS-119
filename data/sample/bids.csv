@@ -1,0 +1,11 @@
+bid_id,tender_id,bidder_id,bidder_name,organization_type,pan_no,gstin,email,phone,is_blacklisted,blacklisted_since,submission_timestamp
+BID_T1_001,TND001,BDR001,Alpha Cloud Solutions Pvt Ltd,Private Limited,AAACA1111A,29AAACA1111A1Z1,tenders@alphacloud.in,+91-9880011001,0,,2026-11-20T10:15:00Z
+BID_T1_002,TND001,BDR002,Beta Infotech Enterprises (MSE),LLP,AAACB2222B,29AAACB2222B1Z2,bid@betainfotech.in,+91-9880022002,0,,2026-11-20T11:30:00Z
+BID_T1_003,TND001,BDR003,Gamma Networks & Systems (Class-I),Partnership,AAACG3333C,29AAACG3333C1Z3,procure@gammanet.in,+91-9880033003,0,,2026-11-21T09:45:00Z
+BID_T1_004,TND001,BDR004,Delta Cyber Technologies,Private Limited,AAACD4444D,29AAACD4444D1Z4,info@deltacyber.in,+91-9880044004,0,,2026-11-21T14:20:00Z
+BID_T1_005,TND001,BDR005,Epsilon Digital Systems,Proprietorship,AAACE5555E,29AAACE5555E1Z5,sales@epsilonds.in,+91-9880055005,0,,2026-11-22T16:00:00Z
+BID_T1_006,TND001,BDR006,Zeta Informatics Ltd,Public Limited,AAACZ6666F,29AAACZ6666F1Z6,gov@zetainfo.com,+91-9880066006,0,,2026-11-23T11:10:00Z
+BID_T1_007,TND001,BDR007,Theta Computing Platforms,Private Limited,AAACT7777G,29AAACT7777G1Z7,contact@thetacomp.in,+91-9880077007,0,,2026-11-24T10:00:00Z
+BID_T1_008,TND001,BDR008,Iota Solutions India,Private Limited,AAACI8888H,29AAACI8888H1Z8,ops@iotaindia.com,+91-9880088008,0,,2026-11-24T15:30:00Z
+BID_T2_001,TND002,BDR001,Alpha Cloud Solutions Pvt Ltd,Private Limited,AAACA1111A,29AAACA1111A1Z1,tenders@alphacloud.in,+91-9880011001,0,,2026-11-26T10:00:00Z
+BID_T2_002,TND002,BDR003,Gamma Networks & Systems (Class-I),Partnership,AAACG3333C,29AAACG3333C1Z3,procure@gammanet.in,+91-9880033003,0,,2026-11-26T14:30:00Z

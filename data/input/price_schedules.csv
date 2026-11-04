@@ -1,0 +1,25 @@
+schedule_id,bid_id,item_no,description,quantity,unit,quoted_unit_rate,quoted_total_amount,is_gst_included,gst_rate_pct,is_freight_included,freight_amount
+PS_001,BID_T1_001,1,High-Density Cloud Compute Nodes,50,Units,400000.00,20000000.00,1,18.00,1,0.00
+PS_002,BID_T1_001,2,All-Flash NVMe Storage Array,10,Units,1200000.00,12000000.00,1,18.00,1,0.00
+PS_003,BID_T1_001,3,100GbE Datacenter Fabric Switches,8,Units,500000.00,4000000.00,1,18.00,1,0.00
+PS_004,BID_T1_001,4,5-Year Comprehensive SLA Support,1,Lot,8000000.00,8000000.00,1,18.00,1,0.00
+PS_005,BID_T1_002,1,High-Density Cloud Compute Nodes,50,Units,440000.00,22000000.00,1,18.00,1,0.00
+PS_006,BID_T1_002,2,All-Flash NVMe Storage Array,10,Units,1350000.00,13500000.00,1,18.00,1,0.00
+PS_007,BID_T1_002,3,100GbE Datacenter Fabric Switches,8,Units,550000.00,4400000.00,1,18.00,1,0.00
+PS_008,BID_T1_002,4,5-Year Comprehensive SLA Support,1,Lot,8600000.00,8600000.00,1,18.00,1,0.00
+PS_009,BID_T1_003,1,High-Density Cloud Compute Nodes,50,Units,470000.00,23500000.00,1,18.00,1,0.00
+PS_010,BID_T1_003,2,All-Flash NVMe Storage Array,10,Units,1400000.00,14000000.00,1,18.00,1,0.00
+PS_011,BID_T1_003,3,100GbE Datacenter Fabric Switches,8,Units,600000.00,4800000.00,1,18.00,1,0.00
+PS_012,BID_T1_003,4,5-Year Comprehensive SLA Support,1,Lot,8700000.00,8700000.00,1,18.00,1,0.00
+PS_013,BID_T1_007,1,High-Density Cloud Compute Nodes,50,Units,350000.00,17500000.00,1,18.00,1,0.00
+PS_014,BID_T1_007,2,All-Flash NVMe Storage Array,10,Units,1050000.00,10500000.00,1,18.00,1,0.00
+PS_015,BID_T1_007,3,100GbE Datacenter Fabric Switches,8,Units,450000.00,3600000.00,1,18.00,1,0.00
+PS_016,BID_T1_007,4,5-Year Comprehensive SLA Support,1,Lot,7400000.00,7400000.00,1,18.00,1,0.00
+PS_017,BID_T1_008,1,High-Density Cloud Compute Nodes,50,Units,410000.00,21500000.00,1,18.00,1,0.00
+PS_018,BID_T1_008,2,All-Flash NVMe Storage Array,10,Units,1250000.00,12500000.00,1,18.00,1,0.00
+PS_019,BID_T1_008,3,100GbE Datacenter Fabric Switches,8,Units,520000.00,4160000.00,1,18.00,1,0.00
+PS_020,BID_T1_008,4,5-Year Comprehensive SLA Support,1,Lot,8200000.00,8840000.00,1,18.00,1,0.00
+PS_021,BID_T2_001,1,Edge AI Video Surveillance Nodes,100,Units,500000.00,50000000.00,1,18.00,1,0.00
+PS_022,BID_T2_001,2,Integrated Traffic Management Suite,1,Lot,25000000.00,25000000.00,1,18.00,1,0.00
+PS_023,BID_T2_002,1,Edge AI Video Surveillance Nodes,100,Units,480000.00,48000000.00,1,18.00,1,0.00
+PS_024,BID_T2_002,2,Integrated Traffic Management Suite,1,Lot,24000000.00,24000000.00,1,18.00,1,0.00

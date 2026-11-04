@@ -1,0 +1,13 @@
+{
+  "app_name": "TENDERLENS",
+  "version": "1.0.0",
+  "config_version": "2026.1",
+  "database_path": "database/tenderlens.db",
+  "currency": "INR",
+  "currency_symbol": "₹",
+  "log_level": "INFO",
+  "two_envelope_strict": true,
+  "audit_genesis_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "reports_dir": "reports",
+  "demo_dir": "demo"
+}

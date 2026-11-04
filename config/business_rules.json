@@ -1,0 +1,56 @@
+{
+  "rules_version": "2026.1",
+  "eligibility": {
+    "min_turnover_pct_of_estimate": "30.00",
+    "turnover_years_count": 3,
+    "experience_lookback_years": 7,
+    "experience_criteria_options": [
+      { "count": 1, "min_value_pct_of_estimate": "80.00" },
+      { "count": 2, "min_value_pct_of_estimate": "50.00" },
+      { "count": 3, "min_value_pct_of_estimate": "40.00" }
+    ],
+    "mse_relaxation_allowed": true
+  },
+  "emd": {
+    "rate_pct_of_estimate": "2.00",
+    "max_emd_amount": "5000000.00",
+    "bg_validity_extra_days": 45,
+    "exemptions_allowed": ["MSE", "STARTUP"]
+  },
+  "technical": {
+    "min_individual_criterion_pct": "60.00",
+    "min_overall_technical_pct": "70.00"
+  },
+  "financial": {
+    "arithmetic_priority": "UNIT_RATE_OVER_TOTAL",
+    "default_gst_rate_pct": "18.00"
+  },
+  "preferences": {
+    "mse_margin_pct_above_l1": "15.00",
+    "mse_max_quantity_pct": "25.00",
+    "class_1_local_content_min_pct": "50.00",
+    "class_1_margin_pct_above_l1": "20.00",
+    "class_1_max_quantity_pct": "50.00"
+  },
+  "abnormal_bid": {
+    "estimate_shortfall_threshold_pct": "85.00",
+    "average_bid_shortfall_threshold_pct": "80.00",
+    "abnormal_base_security_pct": "5.00",
+    "additional_security_multiplier": "1.00"
+  },
+  "validity": {
+    "default_bid_validity_days": 90,
+    "max_extension_days": 30,
+    "extension_request_limit": 1
+  },
+  "award": {
+    "standard_performance_security_pct": "3.00",
+    "abnormal_performance_security_pct": "5.00",
+    "security_submission_window_days": 21,
+    "next_bidder_match_margin_pct": "10.00"
+  },
+  "negotiation": {
+    "excess_estimate_trigger_pct": "10.00",
+    "allow_negotiation_only_with_l1": true
+  }
+}

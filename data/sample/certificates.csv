@@ -1,0 +1,4 @@
+cert_id,bidder_id,cert_type,registration_number,issuing_authority,issue_date,expiry_date,local_content_percentage,is_valid
+CERT_001,BDR002,MSE,UDYAM-KR-03-0012345,Ministry of MSME Govt of India,2023-01-10,,0.00,1
+CERT_002,BDR003,MAKE_IN_INDIA,MII-DECL-2026-9081,Statutory Auditor M/s Rao & Co,2026-10-01,2027-09-30,65.00,1
+CERT_003,BDR007,ISO,ISO-9001-2015-8899,TUV Rheinland,2024-06-15,2027-06-14,0.00,1

@@ -1,0 +1,3 @@
+tender_id,title,description,estimated_cost,currency,bid_opening_date,bid_closing_date,bid_validity_days,evaluation_method,qcbs_tech_weight,qcbs_fin_weight,emd_amount,mse_relax_enabled,single_bid_allowed,is_reserved_item
+TND001,Modernization of Enterprise Cloud Infrastructure & Datacenter Storage,Turnkey supply installation commissioning and 5-year maintenance of cloud hyperconverged compute and storage cluster,50000000.00,INR,2026-11-01,2026-11-25,90,LCS,70.00,30.00,1000000.00,1,0,0
+TND002,Smart City Integrated IoT Video Analytics & Automated Traffic Management,Design and deployment of edge AI video surveillance and automated incident detection network across municipal corridors,80000000.00,INR,2026-11-05,2026-11-30,90,QCBS,70.00,30.00,1600000.00,0,0,0

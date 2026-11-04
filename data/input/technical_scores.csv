@@ -1,0 +1,33 @@
+score_id,tender_id,bid_id,criterion_code,evaluator_id,raw_score,remarks
+TS_001,TND001,BID_T1_001,CRIT_METHODOLOGY,EVAL_1,85.00,Comprehensive architectural methodology
+TS_002,TND001,BID_T1_001,CRIT_TEAM,EVAL_1,80.00,Experienced certified cloud architects
+TS_003,TND001,BID_T1_001,CRIT_EXPERIENCE,EVAL_1,85.00,Extensive state datacenter projects
+TS_004,TND001,BID_T1_001,CRIT_FINANCIAL,EVAL_1,88.00,High net worth and liquid solvency
+TS_005,TND001,BID_T1_002,CRIT_METHODOLOGY,EVAL_1,78.00,Sound execution plan
+TS_006,TND001,BID_T1_002,CRIT_TEAM,EVAL_1,75.00,Competent technical lead
+TS_007,TND001,BID_T1_002,CRIT_EXPERIENCE,EVAL_1,76.00,Relevant public sector track record
+TS_008,TND001,BID_T1_002,CRIT_FINANCIAL,EVAL_1,74.00,Stable financial indicators
+TS_009,TND001,BID_T1_003,CRIT_METHODOLOGY,EVAL_1,82.00,Strong edge compute design
+TS_010,TND001,BID_T1_003,CRIT_TEAM,EVAL_1,80.00,Certified network engineers
+TS_011,TND001,BID_T1_003,CRIT_EXPERIENCE,EVAL_1,80.00,Solid municipal telemetry record
+TS_012,TND001,BID_T1_003,CRIT_FINANCIAL,EVAL_1,75.00,Adequate bank credit facility
+TS_013,TND001,BID_T1_006,CRIT_METHODOLOGY,EVAL_1,52.00,Deficient migration methodology fails 60% cut-off
+TS_014,TND001,BID_T1_006,CRIT_TEAM,EVAL_1,78.00,Competent personnel
+TS_015,TND001,BID_T1_006,CRIT_EXPERIENCE,EVAL_1,80.00,Adequate credentials
+TS_016,TND001,BID_T1_006,CRIT_FINANCIAL,EVAL_1,82.00,Solid liquidity
+TS_017,TND001,BID_T1_007,CRIT_METHODOLOGY,EVAL_1,74.00,Adequate staging plan
+TS_018,TND001,BID_T1_007,CRIT_TEAM,EVAL_1,72.00,Adequate engineering team
+TS_019,TND001,BID_T1_007,CRIT_EXPERIENCE,EVAL_1,70.00,Satisfactory prior completions
+TS_020,TND001,BID_T1_007,CRIT_FINANCIAL,EVAL_1,72.00,Acceptable financial strength
+TS_021,TND001,BID_T1_008,CRIT_METHODOLOGY,EVAL_1,80.00,Well detailed implementation schedule
+TS_022,TND001,BID_T1_008,CRIT_TEAM,EVAL_1,80.00,Qualified team
+TS_023,TND001,BID_T1_008,CRIT_EXPERIENCE,EVAL_1,82.00,Demonstrated experience
+TS_024,TND001,BID_T1_008,CRIT_FINANCIAL,EVAL_1,80.00,Sound financial footing
+TS_025,TND002,BID_T2_001,CRIT_METHODOLOGY,EVAL_1,88.00,Superior smart city design
+TS_026,TND002,BID_T2_001,CRIT_TEAM,EVAL_1,85.00,Top tier AI vision team
+TS_027,TND002,BID_T2_001,CRIT_EXPERIENCE,EVAL_1,86.00,Demonstrated state traffic systems
+TS_028,TND002,BID_T2_001,CRIT_FINANCIAL,EVAL_1,90.00,Exceptional solvency
+TS_029,TND002,BID_T2_002,CRIT_METHODOLOGY,EVAL_1,75.00,Adequate traffic management plan
+TS_030,TND002,BID_T2_002,CRIT_TEAM,EVAL_1,75.00,Qualified field engineers
+TS_031,TND002,BID_T2_002,CRIT_EXPERIENCE,EVAL_1,78.00,Adequate sensor experience
+TS_032,TND002,BID_T2_002,CRIT_FINANCIAL,EVAL_1,75.00,Stable financial standing

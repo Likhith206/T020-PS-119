@@ -1,0 +1,32 @@
+{
+  "default_qcbs": {
+    "technical_weight": "70.00",
+    "financial_weight": "30.00"
+  },
+  "default_technical_criteria": [
+    {
+      "code": "CRIT_METHODOLOGY",
+      "name": "Methodology & Work Plan",
+      "weight_pct": "30.00",
+      "min_score_pct": "60.00"
+    },
+    {
+      "code": "CRIT_TEAM",
+      "name": "Key Personnel & Team Competence",
+      "weight_pct": "25.00",
+      "min_score_pct": "60.00"
+    },
+    {
+      "code": "CRIT_EXPERIENCE",
+      "name": "Organizational Experience & Track Record",
+      "weight_pct": "25.00",
+      "min_score_pct": "60.00"
+    },
+    {
+      "code": "CRIT_FINANCIAL",
+      "name": "Financial Strength & Solvency",
+      "weight_pct": "20.00",
+      "min_score_pct": "60.00"
+    }
+  ]
+}
