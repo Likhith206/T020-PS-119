@@ -1,0 +1,5 @@
+tender_id,title,evaluation_method,category,estimated_cost,quantity,unit,tech_weight,fin_weight,mse_relax,single_bid_allowed,item_reserved_for_mse,bid_opening_date,bid_validity_days,min_criterion_pct,min_overall_pct
+TND-01,Programme Management Unit for e-Governance (24 months),QCBS,CONSULTANCY,15000000.00,1,LOT,70.00,30.00,false,false,false,2026-06-16,90,60.00,70.00
+TND-02,Supply of ergonomic office chairs,LCS,GOODS,2000000.00,2000,NOS,0.00,100.00,false,false,true,2026-06-23,90,60.00,70.00
+TND-03,Supply of laptops with 3-year warranty,LCS,GOODS,10000000.00,500,NOS,0.00,100.00,false,false,false,2026-07-07,90,60.00,70.00
+TND-04,"Resurfacing of ward roads, Package 7",LCS,WORKS,24000000.00,1,LOT,0.00,100.00,true,false,false,2026-07-14,90,60.00,70.00

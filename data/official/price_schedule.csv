@@ -1,0 +1,59 @@
+bid_id,line_no,item_code,description,quantity,unit_rate,line_total
+BID-001,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,102.00,4080000.00
+BID-001,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,13300.00,21280000.00
+BID-001,3,BOQ-03,Thermoplastic road marking (sqm),3000,600.00,1800000.00
+BID-002,1,PMU-01,PMU team man-months,24,500000.00,12000000.00
+BID-002,2,PMU-02,Travel and incidentals (lump sum),1,300000.00,300000.00
+BID-002,3,PMU-03,Software tools (lump sum),1,300000.00,300000.00
+BID-003,1,PMU-01,PMU team man-months,24,540000.00,12960000.00
+BID-003,2,PMU-02,Travel and incidentals (lump sum),1,300000.00,300000.00
+BID-003,3,PMU-03,Software tools (lump sum),1,200000.00,200000.00
+BID-004,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,19800.00,9900000.00
+BID-005,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,21000.00,10500000.00
+BID-006,1,CH-01,"Ergonomic office chair, mesh back",2000,960.00,1920000.00
+BID-007,1,CH-01,"Ergonomic office chair, mesh back",2000,1000.00,2000000.00
+BID-008,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,17600.00,8400000.00
+BID-009,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,16900.00,8450000.00
+BID-010,1,CH-01,"Ergonomic office chair, mesh back",2000,940.00,1880000.00
+BID-011,1,CH-01,"Ergonomic office chair, mesh back",2000,900.00,1800000.00
+BID-012,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,112.00,4480000.00
+BID-012,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,13700.00,21920000.00
+BID-012,3,BOQ-03,Thermoplastic road marking (sqm),3000,720.00,2160000.00
+BID-013,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,108.00,4320000.00
+BID-013,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,13600.00,21850000.00
+BID-013,3,BOQ-03,Thermoplastic road marking (sqm),3000,700.00,2100000.00
+BID-014,1,PMU-01,PMU team man-months,24,555000.00,13200000.00
+BID-014,2,PMU-02,Travel and incidentals (lump sum),1,300000.00,300000.00
+BID-014,3,PMU-03,Software tools (lump sum),1,250000.00,250000.00
+BID-015,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,95.00,3800000.00
+BID-015,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,13000.00,20800000.00
+BID-015,3,BOQ-03,Thermoplastic road marking (sqm),3000,620.00,1860000.00
+BID-016,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,110.00,4400000.00
+BID-016,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,12950.00,20000000.00
+BID-016,3,BOQ-03,Thermoplastic road marking (sqm),3000,640.00,1920000.00
+BID-017,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,105.00,4200000.00
+BID-017,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,12900.00,20640000.00
+BID-017,3,BOQ-03,Thermoplastic road marking (sqm),3000,650.00,1950000.00
+BID-018,1,PMU-01,PMU team man-months,24,520000.00,12480000.00
+BID-018,2,PMU-02,Travel and incidentals (lump sum),1,400000.00,400000.00
+BID-018,3,PMU-03,Software tools (lump sum),1,300000.00,300000.00
+BID-019,1,PMU-01,PMU team man-months,24,480000.00,11520000.00
+BID-019,2,PMU-02,Travel and incidentals (lump sum),1,300000.00,300000.00
+BID-019,3,PMU-03,Software tools (lump sum),1,200000.00,200000.00
+BID-020,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,19550.00,9775000.00
+BID-021,1,PMU-01,PMU team man-months,24,470000.00,11280000.00
+BID-021,2,PMU-02,Travel and incidentals (lump sum),1,250000.00,250000.00
+BID-021,3,PMU-03,Software tools (lump sum),1,250000.00,250000.00
+BID-022,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,17000.00,8500000.00
+BID-023,1,CH-01,"Ergonomic office chair, mesh back",2000,1050.00,2100000.00
+BID-024,1,BOQ-01,Milling of existing bituminous surface (sqm),40000,115.00,4600000.00
+BID-024,2,BOQ-02,Bituminous concrete 40 mm (cum),1600,14000.00,22400000.00
+BID-024,3,BOQ-03,Thermoplastic road marking (sqm),3000,690.00,2070000.00
+BID-025,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,15600.00,7800000.00
+BID-026,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,16200.00,8100000.00
+BID-027,1,CH-01,"Ergonomic office chair, mesh back",2000,1090.00,2180000.00
+BID-028,1,CH-01,"Ergonomic office chair, mesh back",2000,1120.00,2260000.00
+BID-029,1,LP-01,Laptop i5/16GB/512GB with 3-year onsite warranty,500,18900.00,9450000.00
+BID-030,1,PMU-01,PMU team man-months,24,560000.00,13440000.00
+BID-030,2,PMU-02,Travel and incidentals (lump sum),1,350000.00,350000.00
+BID-030,3,PMU-03,Software tools (lump sum),1,250000.00,250000.00

@@ -345,6 +345,19 @@ def cmd_list_bids(args):
     return 0
 
 
+def cmd_run_official(args):
+    from src.official_stream import OfficialStreamRunner
+    runner = OfficialStreamRunner(data_dir=args.data, out_dir=args.out)
+    runner.execute_command_stream(commands_path=args.commands)
+    print("Official evaluation stream executed successfully!")
+    print(f"Output files generated in '{args.out}':")
+    print(f"  - responsiveness.csv")
+    print(f"  - tech_scorecard.csv")
+    print(f"  - comparative_statement.csv")
+    print(f"  - award.csv")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="tenderlens",
@@ -426,6 +439,12 @@ def build_parser() -> argparse.ArgumentParser:
     p_lb = subparsers.add_parser("list-bids", help="List all bids for a tender")
     p_lb.add_argument("tender_id", help="Tender ID")
 
+    # run-official
+    p_ro = subparsers.add_parser("run-official", help="Execute official faculty command stream on sample data pack")
+    p_ro.add_argument("--data", default="data/official", help="Path to official data directory")
+    p_ro.add_argument("--commands", default=None, help="Path to commands.txt")
+    p_ro.add_argument("--out", default="reports", help="Directory to output the 4 evaluation CSV files")
+
     return parser
 
 
@@ -453,7 +472,8 @@ def main():
         "simulate": cmd_simulate,
         "award": cmd_award,
         "list-tenders": cmd_list_tenders,
-        "list-bids": cmd_list_bids
+        "list-bids": cmd_list_bids,
+        "run-official": cmd_run_official
     }
 
     cmd_fn = commands.get(args.command)

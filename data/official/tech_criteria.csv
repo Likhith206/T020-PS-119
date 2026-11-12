@@ -1,0 +1,17 @@
+tender_id,criterion_id,criterion_name,weight
+TND-01,C1,Methodology and work plan,30.00
+TND-01,C2,Key team,25.00
+TND-01,C3,Relevant experience,25.00
+TND-01,C4,Financial strength,20.00
+TND-02,C1,Methodology and work plan,30.00
+TND-02,C2,Key team,25.00
+TND-02,C3,Relevant experience,25.00
+TND-02,C4,Financial strength,20.00
+TND-03,C1,Methodology and work plan,30.00
+TND-03,C2,Key team,25.00
+TND-03,C3,Relevant experience,25.00
+TND-03,C4,Financial strength,20.00
+TND-04,C1,Methodology and work plan,30.00
+TND-04,C2,Key team,25.00
+TND-04,C3,Relevant experience,25.00
+TND-04,C4,Financial strength,20.00
