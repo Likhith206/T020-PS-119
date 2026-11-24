@@ -160,7 +160,9 @@ python main.py decision-graph TND001 --bidder BDR001
 python main.py decision-graph TND001 --bidder BDR001 --format json
 ```
 
+
 ### Audit & Security
+
 ```powershell
 # Display chronological hash-linked audit ledger
 python main.py audit TND001
@@ -168,6 +170,15 @@ python main.py audit TND001
 # Cryptographically verify SHA-256 audit chain integrity
 python main.py audit-verify TND001
 ```
+
+### Official Dataset Execution
+
+```powershell
+# Run the complete official dataset workflow
+python main.py run-official --data data/official --commands data/official/commands.txt --out output
+```
+
+
 
 ### Intelligence, Simulation & Award
 ```powershell
@@ -188,7 +199,7 @@ python main.py award TND001
 
 ## 7. Automated Test Suite
 
-TENDERLENS includes **43 automated pytest tests** covering all 20 mandatory statutory boundary conditions, unit-rate ranking inversions, two-envelope isolation, and end-to-end integration:
+TENDERLENS includes **44 automated pytest tests** covering all 20 mandatory statutory boundary conditions, unit-rate ranking inversions, two-envelope isolation, and end-to-end integration:
 
 ```powershell
 # Run the complete test suite
@@ -290,7 +301,7 @@ T020-PS-119/
 │       ├── money_utils.py      # High-Precision Decimal Math & INR Formatting
 │       └── validators.py       # Startup Config & CSV Header Validators
 │
-├── tests/                      # 43 Automated Pytest Tests (100% Pass Rate)
+├── tests/                      # 44 Automated Pytest Tests (100% Pass Rate)
 │   ├── conftest.py
 │   ├── test_abnormal_bid.py
 │   ├── test_audit.py
