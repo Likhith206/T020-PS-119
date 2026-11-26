@@ -3,6 +3,13 @@
 **Tagline:** *Every Bid Evaluated. Every Decision Explained.*
 
 ---
+## 🎥 Project Demo
+
+Watch our TenderLens project demonstration:
+
+[▶ Watch the TenderLens Demo Video](https://drive.google.com/file/d/1p3RUJNR6qpIyWWkNZBx-9WOULUgZOSeN/view?usp=sharing)
+
+This video demonstrates the project structure, official tender evaluation process, generated reports, audit verification, and testing.
 
 ## 1. Project Overview
 
@@ -350,3 +357,4 @@ As documented in `DECISION_LOG.md`:
 
 - **Single-Lot Price Schedules**: The current commercial normalization engine evaluates single-lot price schedules; multi-lot package optimization will be introduced in future releases.
 - **Local Hash Chain**: SHA-256 hash chaining ensures cryptographic tamper evidence against database manipulation; external distributed ledger anchoring can be added for absolute non-repudiation.
+
